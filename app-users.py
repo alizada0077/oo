@@ -6,8 +6,8 @@ import html2text
 import requests
 import json
 import streamlit as st
-openai.api_key = "sk-XXX"
-openai.organization = "org-XXX"
+openai.api_key = "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"
+openai.organization = "org-pZxHW0rA80mmqSjIvtP9T3BlbkFJsU3CC129vu2ujFKoVWce"
 
 
 def BitcoinPriceAnalysis():
